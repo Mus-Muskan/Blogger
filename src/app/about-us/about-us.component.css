@@ -9,3 +9,18 @@ img{
     flex-direction: column;
     align-items: center;
 }
+#items{
+    list-style-type: none;
+    align-items: center;
+}
+#item-odd
+{
+    margin-left:50%;
+    
+}
+#item-even
+{
+    margin-right:50%;
+    text-align: right;
+    
+}
