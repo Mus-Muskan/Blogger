@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: radial-gradient(#ffffff, #d6e9ff);  
+    font-family: 'Inter';
+}
+.container{
+margin-top: 30px;
+
+}
+.form-control{
+   max-width: 50%;
+}
