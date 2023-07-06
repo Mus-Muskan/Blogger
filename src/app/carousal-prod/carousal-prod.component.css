@@ -1,0 +1,44 @@
+.Image1{
+    margin-top: 20px;
+    height: 800px;
+    width: 1000px;
+}
+#heading{
+    text-align: center;
+}
+
+#prod_heading{
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    margin: 0 auto 80px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+  }
+  
+  .title::after {
+    content: "";
+    background: #ff523b;
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .carousel-caption d-none d-md-block{
+    align-self: self-start;
+  }
+/* #carouselExampleInterval{
+  height: 400px;
+  margin-bottom: 30px;
+} */
+
+#blog-image{
+  height: 500px;
+}
